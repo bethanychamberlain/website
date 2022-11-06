@@ -7,15 +7,12 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hello, my name is Bethany and I think it's really weird but cool that you've somehow landed on this website! Welcome!
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I am a 1st year PhD Fellow at the IT University of Copenhagen in Denmark. I have a background in psychology and am sitting in the computer science department (associated with PURRLab & DASYA). Broadly speaking, my research is focused on the decision-making processes of AI/ML researchers. I am exploring or planning to explore themes such as human bias, ethics, self-auditing of workflows, perceptions, similarity, and more.
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I am also an external lecturer for DIS Study Abroad in Denmark, teaching their **Public Mental Health** course to undergraduate American students.
 
-PS: If you liked the theme, do star it on GitHub!
+In my "free" time, I like going for walks, hanging out with my cats and husband, playing games (card, board, video), and I love to read. I host a monthly book club at Books & Company in Hellerup.
 
-### Also, check out:
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+This website is very new and very much under development, so consider visiting again later.
