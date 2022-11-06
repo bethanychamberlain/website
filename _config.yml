@@ -13,12 +13,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "https://twitter.com/chamberlain_ba"
-linkedin: "https://www.linkedin.com/in/bethanyannc/"
+twitter: "chamberlain_ba"
+linkedin: "bethanyannc/"
 stackoverflow:
-github: "https://github.com/bethanychamberlain"
+github: "bethanychamberlain"
 researchgate:
-orcid: "https://orcid.org/0000-0001-9184-0248"
+orcid: "0000-0001-9184-0248"
 quora:
 instagram:
 facebook:
