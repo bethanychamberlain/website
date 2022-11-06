@@ -3,7 +3,7 @@
 title: Bethany Chamberlain
 description: PhD Fellow, Lecturer, Cat-wrangler
 
-baseurl: /website #name of GitHub repository
+baseurl: "https://github.com/bethanychamberlain/website" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
