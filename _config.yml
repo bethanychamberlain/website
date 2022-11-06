@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Bethany Chamberlain
+description: PhD Fellow, Lecturer, Cat-wrangler
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /website #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
