@@ -49,12 +49,22 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
+      - project1.md
+      - project2.md
+      - project3.md
       - project4.md
       - project5.md
       - project6.md
+  teaching:
+    output: true
+    permalink: /teaching/:name/
+    order:
+      - learning-teaching.md
+      - public-mental-health.md
+      - data-wild.md
+      - psychology-games.md
+      - teaching5.md
+      - teaching6.md
 
 sass:
   sass_dir: /assets/css/_sass

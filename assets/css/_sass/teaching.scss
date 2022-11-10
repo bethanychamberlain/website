@@ -1,0 +1,121 @@
+/* Teaching Page */
+.TeachingContainer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  /* Compensate for excess margin on outer gallery flex items */
+  margin: -1rem -1rem;
+}
+
+.teachingTile {
+  /* Minimum width of 200px and grow to fit available space */
+  flex: 1 0 200px;
+  border-radius: 15px;
+  background: $projectbox;
+  @media (prefers-color-scheme: dark) {
+    background: $projectbox-dark;
+  }
+  height: 200px;
+  width: 100%;
+  overflow: hidden;
+  display: table;
+}
+
+.teachingTile a {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  cursor: pointer;
+}
+
+.teachingTile a span {
+  display: flex;
+  justify-content: center;
+}
+
+.teachingTile a span h2 {
+  font-size: 1.5rem;
+  padding: 1rem;
+  color: $projectbox-text;
+}
+
+.teachingTile:hover a span h2 {
+  display: none;
+}
+
+.teachingTile a span p {
+  display: none;
+}
+
+.teachingTile:hover a span p {
+  font-size: 1.2rem;
+  display: flex;
+  padding: 1rem;
+  color: $projectbox-text;
+}
+
+@include media-query($on-phone) {
+  @media screen and (max-width: $on-phone){
+
+    .teachingTile {
+      height: 80px;
+    }
+
+    .teachingTile a span h2 {
+      font-size: 1.2rem;
+    }
+
+    .teachingTile:hover a span p {
+      display: none;
+    }
+
+    .teachingTile:hover a span h2 {
+      display: flex;
+    }
+
+
+  }
+}
+
+@include media-query($on-palm) {
+  @media screen and (max-width: $on-palm){
+
+    .teachingTile {
+      height: 100px;
+    }
+
+    .teachingTile a span h2 {
+      font-size: 1.3rem;
+    }
+
+    .teachingTile:hover a span p {
+      display: none;
+    }
+
+    .teachingTile:hover a span h2 {
+      display: flex;
+    }
+
+  }
+}
+
+
+@supports (display: grid) {
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 2rem;
+  }
+
+  .gallery,
+  .gallery-item {
+    margin: 0;
+  }
+}
+
+//Based on: https://codepen.io/GeorgePark/pen/vdqYom
