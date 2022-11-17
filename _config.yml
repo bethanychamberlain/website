@@ -9,8 +9,8 @@ email: "info@bethany.dk"
 
 # Pagination
 paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+permalink: /logs/:year/:title/
+paginate_path: /logs/page:num/
 
 # Social media links in footer
 twitter: "chamberlain_ba"
@@ -46,7 +46,7 @@ compress_html:
 #collection
 collections:
   projects:
-    output: true
+    output: false
     permalink: /projects/:name/
     order:
       - project1.md
@@ -63,8 +63,6 @@ collections:
       - public-mental-health.md
       - data-wild.md
       - psychology-games.md
-      - teaching5.md
-      - teaching6.md
 
 sass:
   sass_dir: /assets/css/_sass
