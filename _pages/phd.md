@@ -30,3 +30,7 @@ I focus on how artificial intelligence researchers **do** research, primarily wi
 * Qualitative research methods
 * Similarity
 * Transfer learning
+
+### Weekly Logs ###
+
+In retrospect, I wish I had started taking structured log notes early on, but better late than never. Not they are very interesting to anyone except myself and my supervisor, feel free to <a href="{{site.baseurl}}/logs/">check them out</a>.
