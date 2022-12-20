@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-12-02-friday.md",
+                "file": "_posts/2022-12-02-weekly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4477c2067d162076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-12-09-weekly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "084d26c118e349f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-12-16-weekly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "153889c6dcffb73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-12-21-weekly.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b53b873773cab48a",
@@ -86,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-12-02-friday.md",
+                "file": "_posts/2022-12-21-weekly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-12-02-friday.md",
+                "file": "_posts/2022-12-21-weekly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +162,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-12-02-friday.md"
+                "file": "_posts/2022-12-21-weekly.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "c689e0addc25105f",
-  "lastOpenFiles": []
+  "active": "153889c6dcffb73a",
+  "lastOpenFiles": [
+    "_posts/2022-12-16-weekly.md",
+    "_posts/2022-12-21-weekly.md",
+    "_posts/2022-12-09-weekly.md",
+    "_posts/2022-12-02-weekly.md"
+  ]
 }
