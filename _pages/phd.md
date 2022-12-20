@@ -12,7 +12,7 @@ I focus on how artificial intelligence researchers **do** research, primarily wi
 
 
 
-### Keywords, themes, etc###
+### Keywords, themes, etc ###
 
 * Behavior change
 * Cognition
