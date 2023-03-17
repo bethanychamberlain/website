@@ -4,6 +4,10 @@ layout: default
 permalink: /phd/
 published: true
 ---
+### Note, March 2023 ###
+
+I have chosen to transition away from academia and will not be finishing this PhD program.
+
 
 ### Short Description ###
 
@@ -29,8 +33,3 @@ I focus on how artificial intelligence researchers **do** research, primarily wi
 * Psychology
 * Qualitative research methods
 * Similarity
-* Transfer learning
-
-### Weekly Logs ###
-
-In retrospect, I wish I had started taking structured log notes early on, but better late than never. Not that they are very interesting to anyone except myself and sometimes my supervisor, but feel free to <a href="{{site.baseurl}}/logs/">check them out</a>.
